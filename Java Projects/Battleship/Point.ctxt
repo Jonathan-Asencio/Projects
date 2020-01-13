@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=manages\ points\ on\ x\ and\ y\ axis
+comment1.params=
+comment1.target=Point()
+comment1.text=\r\n\ creates\ new\ point\ 0,0\r\n
+comment2.params=r\ c
+comment2.target=Point(int,\ int)
+comment2.text=\r\n\ creates\ new\ point\ at\ specified\ point\r\n\ @param\ r\ point\ on\ x\ axis\r\n\ @param\ c\ point\ on\ y\ axis\r\n
+comment3.params=r\ c
+comment3.target=void\ setLocation(int,\ int)
+comment3.text=\r\n\ sets\ point\r\n\ @param\ r\ point\ on\ x\ axis\r\n\ @param\ c\ point\ on\ y\ axis\r\n
+comment4.params=
+comment4.target=int\ getRow()
+comment4.text=\r\n\ gets\ point\ on\ x\ axis\r\n\ @return\ \ x\r\n
+comment5.params=
+comment5.target=int\ getCol()
+comment5.text=\r\n\ gets\ point\ on\ y\ axis\r\n\ @return\ y\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ returns\ point\ on\ x\ and\ y\ axis\ as\ string\r\n\ @return\r\n
+numComments=7

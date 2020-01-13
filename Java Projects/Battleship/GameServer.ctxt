@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameServer
+comment0.text=\r\n\ Class\ that\ creates\ Server\ to\ host\ game.\r\n\ \r\n\ @author\ Jonathan\ Asencio\r\n\ @version\ 20190712\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Starts\ up\ a\ server,\ waits\ for\ the\ first\ incoming\ client\ connection,\ and\ then\ starts\ a\ BattleshipGame\ to\ play\ the\ game\r\n\ @param\ args\r\n\ @throws\ IOException\r\n
+numComments=2

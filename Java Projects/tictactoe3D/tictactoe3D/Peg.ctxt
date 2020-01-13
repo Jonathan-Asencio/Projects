@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Peg
+comment0.text=\r\n\ Moves\ peg\ to\ players\ input\r\n\r\n\ @author\ Jonathan\ Asencio\r\n\ @version\ 20190726\r\n
+comment1.params=x
+comment1.target=Peg(char)
+comment2.params=
+comment2.target=Peg()
+comment3.params=c
+comment3.target=void\ setMove(char)
+comment4.params=
+comment4.target=char\ getMove()
+numComments=5

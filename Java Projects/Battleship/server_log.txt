@@ -1,0 +1,15 @@
+Beginning log for user 1
+----------------------------
+STATISTICS
+----------------------------
+Player 0: 0 move(s) // 0 hit(s) / 0 miss(es)
+Player 1: 0 move(s) // 0 hit(s) / 0 miss(es)
+
+
+MISS FOR PLAYER 0 @ (1,1)
+----------------------------
+STATISTICS
+----------------------------
+Player 0: 1 move(s) // 0 hit(s) / 1 miss(es)
+Player 1: 0 move(s) // 0 hit(s) / 0 miss(es)
+

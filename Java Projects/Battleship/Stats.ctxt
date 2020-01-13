@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Stats
+comment0.text=\r\n\ class\ that\ records\ number\ of\ hits\ and\ misses\r\n\ \r\n\ @author\ Jonathan\ Asencio\r\n\ @version\ 20190712\r\n
+comment1.params=user
+comment1.target=void\ recordHit(int)
+comment1.text=\r\n\ Record\ a\ hit\ against\ a\ specified\ user\r\n\ @param\ user\r\n
+comment2.params=user
+comment2.target=void\ recordMiss(int)
+comment2.text=\r\n\ Record\ a\ miss\ against\ a\ specified\ user\r\n\ @param\ user\r\n
+comment3.params=user
+comment3.target=int\ hits(int)
+comment3.text=\r\n\ Returns\ the\ number\ of\ hits\ by\ the\ specified\ user\r\n\ @param\ user\r\n\ @return\r\n
+comment4.params=user
+comment4.target=int\ misses(int)
+comment4.text=\r\n\ Returns\ the\ number\ of\ misses\ by\ the\ specified\ user\r\n\ @param\ user\r\n\ @return\r\n
+comment5.params=user
+comment5.target=int\ total(int)
+comment5.text=\r\n\ Returns\ the\ total\ firings\ by\ the\ specified\ user\r\n\ @param\ user\r\n\ @return\r\n
+comment6.params=gameLogger
+comment6.target=void\ writeStatistics(Logger)
+comment6.text=\r\n\ prints\ out\ statistics\ of\ hits\ and\ misses\r\n\ @param\ gameLogger\r\n
+numComments=7

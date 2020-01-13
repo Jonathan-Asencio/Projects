@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BattleshipGame
+comment0.text=\r\n\ Class\ that\ simulates\ Battleship\ board\ game\r\n\ \r\n\ @author\ Jonathan\ Asencio\r\n\ @version\ 20190712\r\n
+comment1.params=client\ gameLogger\ current_player\ filename
+comment1.target=BattleshipGame(GameClient,\ Logger,\ int,\ java.lang.String)
+comment1.text=\r\n\ creates\ new\ game\ of\ battleship\ with\ server\ connection\ and\ new\ game\ log\r\n\ @param\ client\r\n\ @param\ gameLogger\r\n\ @param\ current_player\r\n\ @param\ filename\r\n
+comment2.params=
+comment2.target=void\ startLog()
+comment2.text=\r\n\ starts\ new\ log\ for\ game\r\n
+comment3.params=
+comment3.target=Armada\ getMyBoard()
+comment3.text=\r\n\ gets\ fleet\ board\r\n\ @return\ fleet\ board\r\n
+comment4.params=
+comment4.target=void\ promptForMyGuess()
+comment4.text=\r\n\ asks\ player\ for\ point\ at\ which\ to\ fire\r\n
+comment5.params=
+comment5.target=void\ processTheirGuess()
+comment5.text=\r\n\ determines\ if\ guess\ is\ hit\ or\ miss\ and\ places\ results\ on\ player\ guess\ gird\ and\ opposite\ player\ fleet\ grid\r\n
+comment6.params=
+comment6.target=void\ run()
+comment6.text=\r\n\ runs\ game.\ Prompts\ for\ guess,\ processes\ guess,\ determines\ winner\r\n
+comment7.params=
+comment7.target=void\ printBoard()
+comment7.text=\r\n\ prints\ boards\r\n
+numComments=8

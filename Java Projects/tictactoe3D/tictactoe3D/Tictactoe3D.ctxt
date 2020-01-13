@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Tictactoe3D
+comment0.text=\r\n\ Creates\ playable\ Tictactoe\ board.\r\n\r\n\ @author\ Jonathan\ Asencio\r\n\ @version\ 20190726\r\n
+comment1.params=
+comment1.target=Tictactoe3D()
+comment2.params=
+comment2.target=int\ checkWin()
+comment2.text=\r\n\ Checks\ to\ see\ if\ player\ won\r\n\ \r\n\ @return\ winner\ win\ message\r\n\ @return\ checkWinOutPlane\ call\ to\ method\r\n
+comment3.params=
+comment3.target=int\ checkWinOutPlane()
+comment3.text=\r\n\ Checks\ board\ for\ winning\ move\r\n\ \r\n\ \r\n\ \r\n
+comment4.params=
+comment4.target=int\ checkDiagonal()
+comment5.params=
+comment5.target=int\ checkWinPlane()
+comment6.params=
+comment6.target=void\ getMove()
+comment7.params=
+comment7.target=void\ display()
+numComments=8

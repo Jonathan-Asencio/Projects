@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameClient
+comment0.text=\r\n\ Class\ that\ creates\ client\ to\ connect\ with\ GameServer\r\n\ \r\n\ @author\ Jonathan\ Asencio\r\n\ @version\ 20190712\r\n
+comment1.params=clientSocket
+comment1.target=GameClient(java.net.Socket)
+comment1.text=\r\n\ open\ socket\ for\ two\ player\ game\r\n\ @param\ clientSocket\r\n
+comment2.params=msg
+comment2.target=void\ sendOnly(java.lang.String)
+comment2.text=\r\n\ Send\ a\ message\ to\ the\ remote\ side,\ but\ don't\ listen\ for\ a\ response\r\n\ @param\ msg\r\n
+comment3.params=msg
+comment3.target=java.lang.String\ sendMessage(java.lang.String)
+comment3.text=\r\n\ Send\ a\ message\ to\ the\ remote\ side,\ and\ immediately\ listen\ for\ a\ response\r\n\r\n\ @param\ msg\r\n\ @return\r\n
+comment4.params=
+comment4.target=java.lang.String\ readMessage()
+comment4.text=\r\n\ Read\ a\ string\ from\ the\ remote\ side\r\n\ @return\r\n
+comment5.params=
+comment5.target=void\ stop()
+comment5.text=\r\n\ Clean\ up\ open\ connections\ and\ sockets\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Runs\ the\ game\ client\ (the\ remote\ side)\ by\ connecting\ remotely\ and\ then\ running\ a\ configured\ BattleshipGame\r\n\ @param\ args\r\n\ @throws\ FileNotFoundException\r\n
+numComments=7

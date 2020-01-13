@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Logger
+comment0.text=\r\n\ class\ to\ keep\ log\ of\ game\r\n\ \r\n\ @author\ Jonathan\ Asencio\r\n\ @version\ 20190712\r\n
+comment1.params=path
+comment1.target=Logger(java.lang.String)
+comment1.text=\r\n\ creates\ new\ log\ of\ game\r\n\ @param\ path\r\n\ @throws\ FileNotFoundException\r\n
+comment2.params=entry
+comment2.target=void\ println(java.lang.String)
+comment2.text=\r\nadds\ line\ with\ new\ line\ to\ game\ log\r\n\ @param\ entry\r\n
+comment3.params=entry
+comment3.target=void\ print(java.lang.String)
+comment3.text=\r\n\ adds\ line\ to\ game\ log\r\n\ @param\ entry\r\n
+numComments=4
